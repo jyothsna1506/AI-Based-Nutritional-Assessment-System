@@ -1,0 +1,46 @@
+# ── Python ────────────────────────────────────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.eggs/
+dist/
+build/
+*.so
+venv/
+.venv/
+env/
+
+# ── Environment files (NEVER commit secrets) ──────────────────────────────
+.env
+backend/.env
+*.env
+
+# ── Databases ─────────────────────────────────────────────────────────────
+*.db
+*.sqlite
+*.sqlite3
+
+# ── Node / Frontend ───────────────────────────────────────────────────────
+node_modules/
+frontend/dist/
+frontend/build/
+
+# ── IDE / Editor ──────────────────────────────────────────────────────────
+.vscode/settings.json
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# ── ML / Data ─────────────────────────────────────────────────────────────
+ml/datasets/raw/
+ml/datasets/processed/
+*.csv
+!ml/datasets/processed/food_database_final.csv
+
+# ── Logs ──────────────────────────────────────────────────────────────────
+*.log
+logs/

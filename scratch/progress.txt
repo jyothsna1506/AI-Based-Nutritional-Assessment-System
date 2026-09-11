@@ -1,0 +1,12 @@
+Done as: 95 keys replaced
+Done bn: 93 keys replaced
+Done gu: 70 keys replaced
+Done kn: 77 keys replaced
+Done ks: 123 keys replaced
+Done ml: 77 keys replaced
+Done or: 83 keys replaced
+Done pa: 95 keys replaced
+Done sd: 85 keys replaced
+Done ta: 75 keys replaced
+Done te: 70 keys replaced
+ALL FINISHED! Total replaced: 943

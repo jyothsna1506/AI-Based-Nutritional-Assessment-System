@@ -1,0 +1,1318 @@
+{
+  "hi": [
+    [
+      "auth_login_email_placeholder",
+      "आप@example.com",
+      [
+        "example",
+        "com"
+      ]
+    ],
+    [
+      "auth_register_email_placeholder",
+      "आप@example.com",
+      [
+        "example",
+        "com"
+      ]
+    ],
+    [
+      "scanner_barcode_label",
+      "उत्पाद बारकोड (EAN / UPC)",
+      [
+        "EAN",
+        "UPC"
+      ]
+    ],
+    [
+      "scanner_search_ean_btn",
+      "EAN खोजें",
+      [
+        "EAN"
+      ]
+    ],
+    [
+      "home_pwa_download",
+      "PWA ऐप डाउनलोड करें",
+      [
+        "PWA"
+      ]
+    ],
+    [
+      "home_faq_q4",
+      "PWA ऐप बिना ऐप स्टोर डाउनलोड के कैसे काम करता है?",
+      [
+        "PWA"
+      ]
+    ],
+    [
+      "food_diary_unit_serving",
+      "सर्विंग्स (Servings)",
+      [
+        "Servings"
+      ]
+    ],
+    [
+      "food_diary_unit_cups",
+      "कप (Cups)",
+      [
+        "Cups"
+      ]
+    ],
+    [
+      "food_diary_unit_tbsp",
+      "चम्मच (tbsp)",
+      [
+        "tbsp"
+      ]
+    ],
+    [
+      "food_diary_portion",
+      "मात्रा (Portion):",
+      [
+        "Portion"
+      ]
+    ],
+    [
+      "meal_shopping_list_download_txt",
+      "डाउनलोड (.txt)",
+      [
+        "txt"
+      ]
+    ]
+  ],
+  "sa": [
+    [
+      "auth_login_email_placeholder",
+      "आप@example.com",
+      [
+        "example",
+        "com"
+      ]
+    ],
+    [
+      "auth_register_email_placeholder",
+      "आप@example.com",
+      [
+        "example",
+        "com"
+      ]
+    ],
+    [
+      "scanner_barcode_label",
+      "उत्पाद बारकोड (EAN / UPC)",
+      [
+        "EAN",
+        "UPC"
+      ]
+    ],
+    [
+      "scanner_search_ean_btn",
+      "EAN खोजें",
+      [
+        "EAN"
+      ]
+    ],
+    [
+      "home_pwa_download",
+      "PWA अनुप्रयोगं संस्थापयतु",
+      [
+        "PWA"
+      ]
+    ],
+    [
+      "home_faq_q4",
+      "PWA ऐप बिना ऐप स्टोर डाउनलोड के कैसे काम करता है?",
+      [
+        "PWA"
+      ]
+    ],
+    [
+      "food_diary_unit_serving",
+      "सर्विंग्स (Servings)",
+      [
+        "Servings"
+      ]
+    ],
+    [
+      "food_diary_unit_cups",
+      "कप (Cups)",
+      [
+        "Cups"
+      ]
+    ],
+    [
+      "food_diary_unit_tbsp",
+      "चम्मच (tbsp)",
+      [
+        "tbsp"
+      ]
+    ],
+    [
+      "feat_blood_title",
+      "रक्तपरीक्षण OCR विश्लेषकः",
+      [
+        "OCR"
+      ]
+    ],
+    [
+      "meal_shopping_list_download_txt",
+      "अवरोपयतु (.txt)",
+      [
+        "txt"
+      ]
+    ]
+  ],
+  "as": [
+    [
+      "auth_login_email_placeholder",
+      "आप@example.com",
+      [
+        "example",
+        "com"
+      ]
+    ],
+    [
+      "auth_register_email_placeholder",
+      "आप@example.com",
+      [
+        "example",
+        "com"
+      ]
+    ],
+    [
+      "scanner_barcode_label",
+      "উতৌপাদ বাৰকৈড (EAN / UPC)",
+      [
+        "EAN",
+        "UPC"
+      ]
+    ],
+    [
+      "scanner_search_ean_btn",
+      "EAN খৈজৃ্",
+      [
+        "EAN"
+      ]
+    ],
+    [
+      "home_pwa_download",
+      "PWA এপ ডাউনলোড কৰক",
+      [
+        "PWA"
+      ]
+    ],
+    [
+      "home_faq_q4",
+      "PWA ঐপ বচনা ঐপ সৌটৈৰ ডাউনলৈড কৃ কৈসৃ কাম কৰতা হৈ?",
+      [
+        "PWA"
+      ]
+    ],
+    [
+      "food_diary_unit_serving",
+      "সৰৌৱচ্গৌস (Servings)",
+      [
+        "Servings"
+      ]
+    ],
+    [
+      "food_diary_unit_cups",
+      "কপ (Cups)",
+      [
+        "Cups"
+      ]
+    ],
+    [
+      "food_diary_unit_tbsp",
+      "চমৌমচ (tbsp)",
+      [
+        "tbsp"
+      ]
+    ],
+    [
+      "food_diary_fat",
+      "চৰ্বি (Fat)",
+      [
+        "Fat"
+      ]
+    ],
+    [
+      "food_diary_portion",
+      "পৰিমাণ (Portion):",
+      [
+        "Portion"
+      ]
+    ],
+    [
+      "feat_blood_title",
+      "ৰক্ত পৰীক্ষা OCR বিশ্লেষক",
+      [
+        "OCR"
+      ]
+    ],
+    [
+      "meal_shopping_list_download_txt",
+      "ডাউনলোড (.txt)",
+      [
+        "txt"
+      ]
+    ]
+  ],
+  "bn": [
+    [
+      "auth_login_email_placeholder",
+      "आप@example.com",
+      [
+        "example",
+        "com"
+      ]
+    ],
+    [
+      "auth_register_email_placeholder",
+      "आप@example.com",
+      [
+        "example",
+        "com"
+      ]
+    ],
+    [
+      "scanner_barcode_label",
+      "উতৌপাদ বাৰকৈড (EAN / UPC)",
+      [
+        "EAN",
+        "UPC"
+      ]
+    ],
+    [
+      "scanner_search_ean_btn",
+      "EAN খৈজৃ্",
+      [
+        "EAN"
+      ]
+    ],
+    [
+      "home_pwa_download",
+      "PWA অ্যাপ ডাউনলোড করুন",
+      [
+        "PWA"
+      ]
+    ],
+    [
+      "home_faq_q4",
+      "PWA অ্যাপ কিভাবে অ্যাপ স্টোর ছাড়া কাজ করে?",
+      [
+        "PWA"
+      ]
+    ],
+    [
+      "food_diary_unit_cups",
+      "কাপ (Cups)",
+      [
+        "Cups"
+      ]
+    ],
+    [
+      "food_diary_unit_tbsp",
+      "টেবিলচামচ (tbsp)",
+      [
+        "tbsp"
+      ]
+    ],
+    [
+      "food_diary_portion",
+      "পরিমাণ (Portion):",
+      [
+        "Portion"
+      ]
+    ],
+    [
+      "meal_shopping_list_download_txt",
+      "ডাউনলোড (.txt)",
+      [
+        "txt"
+      ]
+    ]
+  ],
+  "gu": [
+    [
+      "auth_login_email_placeholder",
+      "आप@example.com",
+      [
+        "example",
+        "com"
+      ]
+    ],
+    [
+      "auth_register_email_placeholder",
+      "आप@example.com",
+      [
+        "example",
+        "com"
+      ]
+    ],
+    [
+      "scanner_barcode_label",
+      "ઉત્પાદ બારકોડ (EAN / UPC)",
+      [
+        "EAN",
+        "UPC"
+      ]
+    ],
+    [
+      "scanner_search_ean_btn",
+      "EAN ખોજેં",
+      [
+        "EAN"
+      ]
+    ],
+    [
+      "home_pwa_download",
+      "PWA એપ્લિકેશન ડાઉનલોડ કરો",
+      [
+        "PWA"
+      ]
+    ],
+    [
+      "home_faq_q4",
+      "એપ સ્ટોર ડાઉનલોડ વિના PWA કેવી રીતે કામ કરે છે?",
+      [
+        "PWA"
+      ]
+    ],
+    [
+      "home_faq_a4",
+      "ન્યુટ્રિ-એઆઈ PWA ટેકનોલોજી પર બનેલું છે. ક્રોમમાં જઈને 'ઇન્સ્ટોલ' પર ટેપ કરો.",
+      [
+        "PWA"
+      ]
+    ],
+    [
+      "food_diary_unit_cups",
+      "કપ (Cups)",
+      [
+        "Cups"
+      ]
+    ],
+    [
+      "food_diary_unit_tbsp",
+      "ચમચી (tbsp)",
+      [
+        "tbsp"
+      ]
+    ],
+    [
+      "food_diary_fat",
+      "ચરબી (Fat)",
+      [
+        "Fat"
+      ]
+    ],
+    [
+      "food_diary_portion",
+      "જથ્થો (Portion):",
+      [
+        "Portion"
+      ]
+    ],
+    [
+      "feat_blood_title",
+      "બ્લડ લેબ OCR વિશ્લેષક",
+      [
+        "OCR"
+      ]
+    ],
+    [
+      "meal_shopping_list_download_txt",
+      "ડાઉનલોડ (.txt)",
+      [
+        "txt"
+      ]
+    ]
+  ],
+  "kn": [
+    [
+      "auth_login_email_placeholder",
+      "आप@example.com",
+      [
+        "example",
+        "com"
+      ]
+    ],
+    [
+      "auth_register_email_placeholder",
+      "आप@example.com",
+      [
+        "example",
+        "com"
+      ]
+    ],
+    [
+      "scanner_barcode_label",
+      "ಉತ್ಪಾದ ಬಾರಕೋಡ (EAN / UPC)",
+      [
+        "EAN",
+        "UPC"
+      ]
+    ],
+    [
+      "scanner_search_ean_btn",
+      "EAN ಖೋಜೇಂ",
+      [
+        "EAN"
+      ]
+    ],
+    [
+      "home_pwa_download",
+      "PWA ಐಪ ಡಾಉನಲೋಡ ಕರೇಂ",
+      [
+        "PWA"
+      ]
+    ],
+    [
+      "home_faq_q4",
+      "PWA ಐಪ ಬಿನಾ ಐಪ ಸ್ಟೋರ ಡಾಉನಲೋಡ ಕೇ ಕೈಸೇ ಕಾಮ ಕರತಾ ಹೈ?",
+      [
+        "PWA"
+      ]
+    ],
+    [
+      "food_diary_unit_serving",
+      "ಸರ್ವಿಂಗ್ಸ (Servings)",
+      [
+        "Servings"
+      ]
+    ],
+    [
+      "food_diary_unit_cups",
+      "ಕಪ (Cups)",
+      [
+        "Cups"
+      ]
+    ],
+    [
+      "food_diary_unit_tbsp",
+      "ಚಮ್ಮಚ (tbsp)",
+      [
+        "tbsp"
+      ]
+    ],
+    [
+      "food_diary_preset_rice",
+      "ಕಂದು ಅಕ್ಕಿ (Brown Rice)",
+      [
+        "Brown",
+        "Rice"
+      ]
+    ],
+    [
+      "feat_blood_title",
+      "ರಕ್ತ ಪರೀಕ್ಷೆಯ OCR ವಿಶ್ಲೇಷಕ",
+      [
+        "OCR"
+      ]
+    ],
+    [
+      "meal_shopping_list_download_txt",
+      "ಡೌನ್‌ಲೋಡ್ (.txt)",
+      [
+        "txt"
+      ]
+    ]
+  ],
+  "ks": [
+    [
+      "auth_login_email_placeholder",
+      "आप@example.com",
+      [
+        "example",
+        "com"
+      ]
+    ],
+    [
+      "auth_register_email_placeholder",
+      "आप@example.com",
+      [
+        "example",
+        "com"
+      ]
+    ],
+    [
+      "scanner_barcode_label",
+      "يڈِھوڻ دوھکُٹ (EAN / UPC)",
+      [
+        "EAN",
+        "UPC"
+      ]
+    ],
+    [
+      "scanner_search_ean_btn",
+      "EAN خُھِے",
+      [
+        "EAN"
+      ]
+    ],
+    [
+      "home_pwa_download",
+      "PWA ایپ ڈاؤن لوڈ کٔریو",
+      [
+        "PWA"
+      ]
+    ],
+    [
+      "home_faq_q4",
+      "PWA ئھ دشتو ئھ يِھُھ ٹويتبُٹ کِ کييِ کوپ کھڈو ري?",
+      [
+        "PWA"
+      ]
+    ],
+    [
+      "food_diary_unit_serving",
+      "يھِبشےغِي (Servings)",
+      [
+        "Servings"
+      ]
+    ],
+    [
+      "food_diary_unit_cups",
+      "کھ (Cups)",
+      [
+        "Cups"
+      ]
+    ],
+    [
+      "food_diary_unit_tbsp",
+      "چپِپچ (tbsp)",
+      [
+        "tbsp"
+      ]
+    ],
+    [
+      "feat_blood_title",
+      "خُون پَرکَھال OCR تجزیہٕ کار",
+      [
+        "OCR"
+      ]
+    ],
+    [
+      "meal_shopping_list_download_txt",
+      "ڈاوُنلوڈ (.txt)",
+      [
+        "txt"
+      ]
+    ]
+  ],
+  "ml": [
+    [
+      "auth_login_email_placeholder",
+      "आप@example.com",
+      [
+        "example",
+        "com"
+      ]
+    ],
+    [
+      "auth_register_email_placeholder",
+      "आप@example.com",
+      [
+        "example",
+        "com"
+      ]
+    ],
+    [
+      "scanner_barcode_label",
+      "ഉത്പാദ ബാരകൊഡ (EAN / UPC)",
+      [
+        "EAN",
+        "UPC"
+      ]
+    ],
+    [
+      "scanner_search_ean_btn",
+      "EAN ഖൊജേം",
+      [
+        "EAN"
+      ]
+    ],
+    [
+      "home_pwa_download",
+      "PWA ഐപ ഡാഉനലൊഡ കരേം",
+      [
+        "PWA"
+      ]
+    ],
+    [
+      "home_faq_q4",
+      "PWA ഐപ ബിനാ ഐപ സ്ടൊര ഡാഉനലൊഡ കേ കൈസേ കാമ കരതാ ഹൈ?",
+      [
+        "PWA"
+      ]
+    ],
+    [
+      "food_diary_unit_serving",
+      "സര്വിംഗ്സ (Servings)",
+      [
+        "Servings"
+      ]
+    ],
+    [
+      "food_diary_unit_cups",
+      "കപ (Cups)",
+      [
+        "Cups"
+      ]
+    ],
+    [
+      "food_diary_unit_tbsp",
+      "ചമ്മച (tbsp)",
+      [
+        "tbsp"
+      ]
+    ],
+    [
+      "food_diary_preset_rice",
+      "തവിടുള്ള അരി (Brown Rice)",
+      [
+        "Brown",
+        "Rice"
+      ]
+    ],
+    [
+      "food_diary_portion",
+      "അളവ് (Portion):",
+      [
+        "Portion"
+      ]
+    ],
+    [
+      "meal_shopping_list_download_txt",
+      "ഡൗൺലോഡ് (.txt)",
+      [
+        "txt"
+      ]
+    ]
+  ],
+  "mr": [
+    [
+      "auth_login_email_placeholder",
+      "आप@example.com",
+      [
+        "example",
+        "com"
+      ]
+    ],
+    [
+      "auth_register_email_placeholder",
+      "आप@example.com",
+      [
+        "example",
+        "com"
+      ]
+    ],
+    [
+      "scanner_barcode_label",
+      "उत्पाद बारकोड (EAN / UPC)",
+      [
+        "EAN",
+        "UPC"
+      ]
+    ],
+    [
+      "scanner_search_ean_btn",
+      "EAN खोजें",
+      [
+        "EAN"
+      ]
+    ],
+    [
+      "home_pwa_download",
+      "PWA ॲप डाउनलोड करा",
+      [
+        "PWA"
+      ]
+    ],
+    [
+      "home_faq_q4",
+      "PWA ॲप ॲप स्टोअरशिवाय कसे कार्य करते?",
+      [
+        "PWA"
+      ]
+    ],
+    [
+      "food_diary_unit",
+      "एकक (Unit)",
+      [
+        "Unit"
+      ]
+    ],
+    [
+      "food_diary_unit_cups",
+      "कप (Cups)",
+      [
+        "Cups"
+      ]
+    ],
+    [
+      "food_diary_unit_tbsp",
+      "चमचे (tbsp)",
+      [
+        "tbsp"
+      ]
+    ],
+    [
+      "food_diary_fat",
+      "चरबी (Fat)",
+      [
+        "Fat"
+      ]
+    ],
+    [
+      "food_diary_portion",
+      "प्रमाण (Portion):",
+      [
+        "Portion"
+      ]
+    ],
+    [
+      "meal_shopping_list_download_txt",
+      "डाउनलोड (.txt)",
+      [
+        "txt"
+      ]
+    ]
+  ],
+  "ne": [
+    [
+      "auth_login_email_placeholder",
+      "आप@example.com",
+      [
+        "example",
+        "com"
+      ]
+    ],
+    [
+      "auth_register_email_placeholder",
+      "आप@example.com",
+      [
+        "example",
+        "com"
+      ]
+    ],
+    [
+      "scanner_barcode_label",
+      "उत्पाद बारकोड (EAN / UPC)",
+      [
+        "EAN",
+        "UPC"
+      ]
+    ],
+    [
+      "scanner_search_ean_btn",
+      "EAN खोजें",
+      [
+        "EAN"
+      ]
+    ],
+    [
+      "home_pwa_download",
+      "PWA एप डाउनलोड गर्नुहोस्",
+      [
+        "PWA"
+      ]
+    ],
+    [
+      "home_faq_q4",
+      "PWA ऐप बिना ऐप स्टोर डाउनलोड के कैसे काम करता है?",
+      [
+        "PWA"
+      ]
+    ],
+    [
+      "food_diary_unit_serving",
+      "सर्विंग्स (Servings)",
+      [
+        "Servings"
+      ]
+    ],
+    [
+      "food_diary_unit_cups",
+      "कप (Cups)",
+      [
+        "Cups"
+      ]
+    ],
+    [
+      "food_diary_unit_tbsp",
+      "चम्मच (tbsp)",
+      [
+        "tbsp"
+      ]
+    ],
+    [
+      "food_diary_fat",
+      "बोसो (Fat)",
+      [
+        "Fat"
+      ]
+    ],
+    [
+      "food_diary_portion",
+      "मात्रा (Portion):",
+      [
+        "Portion"
+      ]
+    ],
+    [
+      "feat_blood_title",
+      "ब्लड ल्याब OCR विश्लेषक",
+      [
+        "OCR"
+      ]
+    ],
+    [
+      "meal_shopping_list_download_txt",
+      "डाउनलोड (.txt)",
+      [
+        "txt"
+      ]
+    ]
+  ],
+  "or": [
+    [
+      "auth_login_email_placeholder",
+      "आप@example.com",
+      [
+        "example",
+        "com"
+      ]
+    ],
+    [
+      "auth_register_email_placeholder",
+      "ଆପଣ@example.com",
+      [
+        "example",
+        "com"
+      ]
+    ],
+    [
+      "scanner_barcode_label",
+      "ଉତ୍ପାଦ ବାରକୋଡ (EAN / UPC)",
+      [
+        "EAN",
+        "UPC"
+      ]
+    ],
+    [
+      "scanner_search_ean_btn",
+      "EAN ଖୋଜେଂ",
+      [
+        "EAN"
+      ]
+    ],
+    [
+      "home_pwa_download",
+      "PWA ଆପ୍ ଡାଉନଲୋଡ୍ କରନ୍ତୁ",
+      [
+        "PWA"
+      ]
+    ],
+    [
+      "home_faq_q4",
+      "PWA ଐପ ବିନା ଐପ ସ୍ଟୋର ଡାଉନଲୋଡ କେ କୈସେ କାମ କରତା ହୈ?",
+      [
+        "PWA"
+      ]
+    ],
+    [
+      "food_diary_unit_serving",
+      "ସର୍ଵିଂଗ୍ସ (Servings)",
+      [
+        "Servings"
+      ]
+    ],
+    [
+      "food_diary_unit_cups",
+      "କପ (Cups)",
+      [
+        "Cups"
+      ]
+    ],
+    [
+      "food_diary_unit_tbsp",
+      "ଚମ୍ମଚ (tbsp)",
+      [
+        "tbsp"
+      ]
+    ],
+    [
+      "food_diary_fat",
+      "ଚର୍ବି (Fat)",
+      [
+        "Fat"
+      ]
+    ],
+    [
+      "feat_ml_desc",
+      "ଅଭାବର ସମ୍ଭାବନା ପୂର୍ବାନୁମାନ କରିବା ପାଇଁ କ୍ଲିନିକାଲ୍ ଡାଟାସେଟ୍ ରେ ପ୍ରଶିକ୍ଷିତ ରାଣ୍ଡମ ଫରେଷ୍ଟ ଏବଂ XGBoost ମଡେଲ୍।",
+      [
+        "XGBoost"
+      ]
+    ],
+    [
+      "feat_blood_title",
+      "ରକ୍ତ ପରୀକ୍ଷା OCR ବିଶ୍ଳେଷକ",
+      [
+        "OCR"
+      ]
+    ],
+    [
+      "meal_shopping_list_download_txt",
+      "ଡାଉନଲୋଡ୍ (.txt)",
+      [
+        "txt"
+      ]
+    ]
+  ],
+  "pa": [
+    [
+      "auth_login_email_placeholder",
+      "आप@example.com",
+      [
+        "example",
+        "com"
+      ]
+    ],
+    [
+      "auth_register_email_placeholder",
+      "आप@example.com",
+      [
+        "example",
+        "com"
+      ]
+    ],
+    [
+      "scanner_barcode_label",
+      "ਉਤ੍ਪਾਦ ਬਾਰਕੋਡ (EAN / UPC)",
+      [
+        "EAN",
+        "UPC"
+      ]
+    ],
+    [
+      "scanner_search_ean_btn",
+      "EAN ਖੋਜੇਂ",
+      [
+        "EAN"
+      ]
+    ],
+    [
+      "home_pwa_download",
+      "PWA ਐਪ ਡਾਉਨਲੋਡ ਕਰੇਂ",
+      [
+        "PWA"
+      ]
+    ],
+    [
+      "home_faq_q4",
+      "PWA ਐਪ ਬਿਨਾ ਐਪ ਸ੍ਟੋਰ ਡਾਉਨਲੋਡ ਕੇ ਕੈਸੇ ਕਾਮ ਕਰਤਾ ਹੈ?",
+      [
+        "PWA"
+      ]
+    ],
+    [
+      "food_diary_unit_serving",
+      "ਸਰ੍ਵਿਂਗ੍ਸ (Servings)",
+      [
+        "Servings"
+      ]
+    ],
+    [
+      "food_diary_unit_cups",
+      "ਕਪ (Cups)",
+      [
+        "Cups"
+      ]
+    ],
+    [
+      "food_diary_unit_tbsp",
+      "ਚਮ੍ਮਚ (tbsp)",
+      [
+        "tbsp"
+      ]
+    ],
+    [
+      "food_diary_fat",
+      "ਚਰਬੀ (Fat)",
+      [
+        "Fat"
+      ]
+    ],
+    [
+      "food_diary_portion",
+      "ਮਾਤਰਾ (Portion):",
+      [
+        "Portion"
+      ]
+    ],
+    [
+      "feat_blood_title",
+      "ਬਲੱਡ ਲੈਬ OCR ਵਿਸ਼ਲੇਸ਼ਕ",
+      [
+        "OCR"
+      ]
+    ],
+    [
+      "meal_shopping_list_download_txt",
+      "ਡਾਊਨਲੋਡ (.txt)",
+      [
+        "txt"
+      ]
+    ]
+  ],
+  "sd": [
+    [
+      "auth_login_email_placeholder",
+      "आप@example.com",
+      [
+        "example",
+        "com"
+      ]
+    ],
+    [
+      "auth_register_email_placeholder",
+      "आप@example.com",
+      [
+        "example",
+        "com"
+      ]
+    ],
+    [
+      "scanner_barcode_label",
+      "يڍودهت پهمكَٽ (EAN / UPC)",
+      [
+        "EAN",
+        "UPC"
+      ]
+    ],
+    [
+      "scanner_search_ean_btn",
+      "EAN خَھِا",
+      [
+        "EAN"
+      ]
+    ],
+    [
+      "home_pwa_download",
+      "PWA ائپ ڊائون لوڊ ڪريو",
+      [
+        "PWA"
+      ]
+    ],
+    [
+      "home_faq_q4",
+      "PWA ئد پِده ئد شوھَم ٽهيديَٽ كِ كےشِ كهب كمڍه صے?",
+      [
+        "PWA"
+      ]
+    ],
+    [
+      "food_diary_unit_serving",
+      "شمورِاغوش (Servings)",
+      [
+        "Servings"
+      ]
+    ],
+    [
+      "food_diary_unit_cups",
+      "كد (Cups)",
+      [
+        "Cups"
+      ]
+    ],
+    [
+      "food_diary_unit_tbsp",
+      "چبوبچ (tbsp)",
+      [
+        "tbsp"
+      ]
+    ],
+    [
+      "feat_blood_title",
+      "بلڊ ليب OCR تجزيو ڪندڙ",
+      [
+        "OCR"
+      ]
+    ],
+    [
+      "meal_shopping_list_download_txt",
+      "ڊائون لوڊ (.txt)",
+      [
+        "txt"
+      ]
+    ]
+  ],
+  "ta": [
+    [
+      "auth_login_email_placeholder",
+      "आप@example.com",
+      [
+        "example",
+        "com"
+      ]
+    ],
+    [
+      "auth_register_email_placeholder",
+      "आप@example.com",
+      [
+        "example",
+        "com"
+      ]
+    ],
+    [
+      "scanner_barcode_label",
+      "உத்பাத பাரகோட (EAN / UPC)",
+      [
+        "EAN",
+        "UPC"
+      ]
+    ],
+    [
+      "scanner_search_ean_btn",
+      "EAN கோஜேம",
+      [
+        "EAN"
+      ]
+    ],
+    [
+      "home_pwa_download",
+      "PWA செயலியை பதிவிறக்கவும்",
+      [
+        "PWA"
+      ]
+    ],
+    [
+      "home_faq_q4",
+      "ஆப் ஸ்டோர் பதிவிறக்கம் இன்றி PWA எவ்வாறு இயங்குகிறது?",
+      [
+        "PWA"
+      ]
+    ],
+    [
+      "home_faq_a4",
+      "நியூட்ரி-ஏஐ PWA தொழில்நுட்பத்தில் உருவாக்கப்பட்டது. க்ரோமில் சென்று 'நிறுவு' என்பதைத் தட்டவும்.",
+      [
+        "PWA"
+      ]
+    ],
+    [
+      "food_diary_unit_cups",
+      "கப்புகள் (Cups)",
+      [
+        "Cups"
+      ]
+    ],
+    [
+      "food_diary_unit_tbsp",
+      "ஸ்பூன் (tbsp)",
+      [
+        "tbsp"
+      ]
+    ],
+    [
+      "feat_blood_title",
+      "ரத்தப் பரிசோதனை OCR பகுப்பாய்வி",
+      [
+        "OCR"
+      ]
+    ],
+    [
+      "meal_shopping_list_download_txt",
+      "பதிவிறக்கம் (.txt)",
+      [
+        "txt"
+      ]
+    ]
+  ],
+  "te": [
+    [
+      "auth_login_email_placeholder",
+      "आप@example.com",
+      [
+        "example",
+        "com"
+      ]
+    ],
+    [
+      "auth_register_email_placeholder",
+      "आप@example.com",
+      [
+        "example",
+        "com"
+      ]
+    ],
+    [
+      "scanner_barcode_label",
+      "ఉత్పাద బাరకోడ (EAN / UPC)",
+      [
+        "EAN",
+        "UPC"
+      ]
+    ],
+    [
+      "scanner_search_ean_btn",
+      "EAN ఖోజేం",
+      [
+        "EAN"
+      ]
+    ],
+    [
+      "home_pwa_download",
+      "PWA యాప్‌ను డౌన్‌లోడ్ చేయండి",
+      [
+        "PWA"
+      ]
+    ],
+    [
+      "home_faq_q4",
+      "యాప్ స్టోర్ డౌన్‌లోడ్ లేకుండా PWA ఎలా పనిచేస్తుంది?",
+      [
+        "PWA"
+      ]
+    ],
+    [
+      "home_faq_a4",
+      "న్యూట్రీ-ఏఐ PWA టెక్నాలజీతో నిర్మించబడింది. క్రోమ్‌లో 'ఇన్‌స్టాల్' నొక్కండి.",
+      [
+        "PWA"
+      ]
+    ],
+    [
+      "food_diary_unit_cups",
+      "కప్పులు (Cups)",
+      [
+        "Cups"
+      ]
+    ],
+    [
+      "food_diary_unit_tbsp",
+      "టేబుల్ స్పూన్లు (tbsp)",
+      [
+        "tbsp"
+      ]
+    ],
+    [
+      "feat_blood_title",
+      "బ్లడ్ ల్యాబ్ OCR ఎనలైజర్",
+      [
+        "OCR"
+      ]
+    ],
+    [
+      "meal_shopping_list_download_txt",
+      "డౌన్‌లోడ్ (.txt)",
+      [
+        "txt"
+      ]
+    ]
+  ]
+}

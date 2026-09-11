@@ -1,0 +1,56 @@
+======================================================================
+  Nutritional Deficiency Model Evaluation Report
+  Generated: 2026-07-17 12:03:38
+======================================================================
+
+Model: Vitamin_D_Deficiency
+----------------------------------------
+  Accuracy:  0.7866
+  Precision: 0.5096
+  Recall:    0.2540
+  F1 Score:  0.3390
+  ROC-AUC:   0.7383
+
+Model: Iron_Anemia_Deficiency
+----------------------------------------
+  Accuracy:  1.0000
+  Precision: 1.0000
+  Recall:    1.0000
+  F1 Score:  1.0000
+  ROC-AUC:   1.0000
+
+Model: MAGN_Deficiency
+----------------------------------------
+  Accuracy:  1.0000
+  Precision: 1.0000
+  Recall:    1.0000
+  F1 Score:  1.0000
+  ROC-AUC:   1.0000
+
+Model: R_Deficiency
+----------------------------------------
+  Accuracy:  1.0000
+  Precision: 1.0000
+  Recall:    1.0000
+  F1 Score:  1.0000
+  ROC-AUC:   1.0000
+
+Model: SCA_Deficiency
+----------------------------------------
+  Accuracy:  1.0000
+  Precision: 1.0000
+  Recall:    1.0000
+  F1 Score:  1.0000
+  ROC-AUC:   1.0000
+
+Model: SK_Deficiency
+----------------------------------------
+  Accuracy:  1.0000
+  Precision: 1.0000
+  Recall:    1.0000
+  F1 Score:  1.0000
+  ROC-AUC:   1.0000
+
+======================================================================
+  Training complete.
+======================================================================

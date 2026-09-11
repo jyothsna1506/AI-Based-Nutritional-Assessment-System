@@ -1,0 +1,198 @@
+{
+  "sa": [
+    {
+      "key": "feat_blood_title",
+      "type": "NON_TECH_ENGLISH",
+      "val": "रक्तपरीक्षण OCR विश्लेषकः",
+      "words": [
+        "OCR"
+      ]
+    }
+  ],
+  "as": [
+    {
+      "key": "food_diary_fat",
+      "type": "NON_TECH_ENGLISH",
+      "val": "চৰ্বি (Fat)",
+      "words": [
+        "Fat"
+      ]
+    },
+    {
+      "key": "feat_blood_title",
+      "type": "NON_TECH_ENGLISH",
+      "val": "ৰক্ত পৰীক্ষা OCR বিশ্লেষক",
+      "words": [
+        "OCR"
+      ]
+    }
+  ],
+  "gu": [
+    {
+      "key": "food_diary_fat",
+      "type": "NON_TECH_ENGLISH",
+      "val": "ચરબી (Fat)",
+      "words": [
+        "Fat"
+      ]
+    },
+    {
+      "key": "feat_blood_title",
+      "type": "NON_TECH_ENGLISH",
+      "val": "બ્લડ લેબ OCR વિશ્લેષક",
+      "words": [
+        "OCR"
+      ]
+    }
+  ],
+  "kn": [
+    {
+      "key": "food_diary_preset_rice",
+      "type": "NON_TECH_ENGLISH",
+      "val": "ಕಂದು ಅಕ್ಕಿ (Brown Rice)",
+      "words": [
+        "Brown",
+        "Rice"
+      ]
+    },
+    {
+      "key": "feat_blood_title",
+      "type": "NON_TECH_ENGLISH",
+      "val": "ರಕ್ತ ಪರೀಕ್ಷೆಯ OCR ವಿಶ್ಲೇಷಕ",
+      "words": [
+        "OCR"
+      ]
+    }
+  ],
+  "ks": [
+    {
+      "key": "feat_blood_title",
+      "type": "NON_TECH_ENGLISH",
+      "val": "خُون پَرکَھال OCR تجزیہٕ کار",
+      "words": [
+        "OCR"
+      ]
+    }
+  ],
+  "ml": [
+    {
+      "key": "food_diary_preset_rice",
+      "type": "NON_TECH_ENGLISH",
+      "val": "തവിടുള്ള അരി (Brown Rice)",
+      "words": [
+        "Brown",
+        "Rice"
+      ]
+    }
+  ],
+  "mr": [
+    {
+      "key": "food_diary_unit",
+      "type": "NON_TECH_ENGLISH",
+      "val": "एकक (Unit)",
+      "words": [
+        "Unit"
+      ]
+    },
+    {
+      "key": "food_diary_fat",
+      "type": "NON_TECH_ENGLISH",
+      "val": "चरबी (Fat)",
+      "words": [
+        "Fat"
+      ]
+    }
+  ],
+  "ne": [
+    {
+      "key": "food_diary_fat",
+      "type": "NON_TECH_ENGLISH",
+      "val": "बोसो (Fat)",
+      "words": [
+        "Fat"
+      ]
+    },
+    {
+      "key": "feat_blood_title",
+      "type": "NON_TECH_ENGLISH",
+      "val": "ब्लड ल्याब OCR विश्लेषक",
+      "words": [
+        "OCR"
+      ]
+    }
+  ],
+  "or": [
+    {
+      "key": "food_diary_fat",
+      "type": "NON_TECH_ENGLISH",
+      "val": "ଚର୍ବି (Fat)",
+      "words": [
+        "Fat"
+      ]
+    },
+    {
+      "key": "feat_ml_desc",
+      "type": "NON_TECH_ENGLISH",
+      "val": "ଅଭାବର ସମ୍ଭାବନା ପୂର୍ବାନୁମାନ କରିବା ପାଇଁ କ୍ଲିନିକାଲ୍ ଡାଟାସେଟ୍ ରେ ପ୍ରଶିକ୍ଷିତ ରାଣ୍ଡମ ଫରେଷ୍ଟ ଏବଂ XGBoost ମଡେଲ୍।",
+      "words": [
+        "XGBoost"
+      ]
+    },
+    {
+      "key": "feat_blood_title",
+      "type": "NON_TECH_ENGLISH",
+      "val": "ରକ୍ତ ପରୀକ୍ଷା OCR ବିଶ୍ଳେଷକ",
+      "words": [
+        "OCR"
+      ]
+    }
+  ],
+  "pa": [
+    {
+      "key": "food_diary_fat",
+      "type": "NON_TECH_ENGLISH",
+      "val": "ਚਰਬੀ (Fat)",
+      "words": [
+        "Fat"
+      ]
+    },
+    {
+      "key": "feat_blood_title",
+      "type": "NON_TECH_ENGLISH",
+      "val": "ਬਲੱਡ ਲੈਬ OCR ਵਿਸ਼ਲੇਸ਼ਕ",
+      "words": [
+        "OCR"
+      ]
+    }
+  ],
+  "sd": [
+    {
+      "key": "feat_blood_title",
+      "type": "NON_TECH_ENGLISH",
+      "val": "بلڊ ليب OCR تجزيو ڪندڙ",
+      "words": [
+        "OCR"
+      ]
+    }
+  ],
+  "ta": [
+    {
+      "key": "feat_blood_title",
+      "type": "NON_TECH_ENGLISH",
+      "val": "ரத்தப் பரிசோதனை OCR பகுப்பாய்வி",
+      "words": [
+        "OCR"
+      ]
+    }
+  ],
+  "te": [
+    {
+      "key": "feat_blood_title",
+      "type": "NON_TECH_ENGLISH",
+      "val": "బ్లడ్ ల్యాబ్ OCR ఎనలైజర్",
+      "words": [
+        "OCR"
+      ]
+    }
+  ]
+}
