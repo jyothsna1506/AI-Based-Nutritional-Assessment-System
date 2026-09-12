@@ -1,8 +1,7 @@
 # NutriAI Legal & Policy Licenses
 
-**Copyright (c) 2026 Asheesh Patel. All Rights Reserved.**
+**Copyright (c) 2026 . All Rights Reserved.**
 
-- **Owner & Rights Holder**: Asheesh Patel
 - **Project**: NutriAI — AI-Based Nutritional Assessment System
 - **Live Platform**: [ai-based-nutritional-assessment-sys.vercel.app](https://ai-based-nutritional-assessment-sys.vercel.app)
 
