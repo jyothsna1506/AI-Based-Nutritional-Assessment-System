@@ -51,10 +51,3 @@ NutriAI is committed to maintaining strict standards of data privacy and securit
 ### C. Offline Caching & Cookies
 - Local offline data is stored securely on your local device via Web Storage (localStorage & IndexedDB) to power Progressive Web App (PWA) functionality.
 
----
-
-## 📧 Legal & Permission Inquiries
-
-For permission requests, licensing inquiries, or legal concerns, please contact:
-- **Author & Rights Holder**: Asheesh Patel
-- **GitHub**: [github.com/asheesh-98](https://github.com/asheesh-98)
